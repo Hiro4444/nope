@@ -1,0 +1,35 @@
+.heading {
+    width:100%;
+    text-align:center;
+    color: black;
+}
+.heading h3 {
+    display:inline;
+}
+body {
+    background-size: cover;
+}
+.heading button {
+    float: right;
+    border:2px soild black;
+    color: black;
+}
+.big_image {
+    width:100%;
+}
+#start, #status {
+    font-size:24px;
+}
+h4 {
+    background-color:black;
+    line-height:2;
+    margin:0px;
+    color: aqua;
+}
+.modal-dialog {
+    width:90%;
+}
+.instruction_image {
+    display:inline-block;
+    width:45%;
+}
